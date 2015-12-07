@@ -1,7 +1,8 @@
+<?php
 $page_title = 'Menu';
 $meat = 'pork';
 $vegetable = 'bean sprout';
-print <<<MENU
+print <<<'MENU'
 <html>
 <head><title>$page_title</title></head>
 <body>
