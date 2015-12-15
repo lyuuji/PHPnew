@@ -1,3 +1,4 @@
+<?
 $sweets = array('Sesame Seed Puff','Coconut Milk Gelatin Square',
                  'Brown Sugar Cake','Sweet Rice and Meat');
 
