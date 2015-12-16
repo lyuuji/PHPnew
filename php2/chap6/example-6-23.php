@@ -1,3 +1,4 @@
+<?
 if ($_POST['_submit_check']) {
     $defaults = $_POST;
 } else {
